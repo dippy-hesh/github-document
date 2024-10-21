@@ -6,7 +6,7 @@
 <li>Git version</li>
 <li>Config your name and email</li>
 <li>Git status</li>
-<lin>Git init</lin>
+<li>Git init</li>
 <li>Git workflow</li>
 <li>Git add</li>
 <li>Git commit</li>
@@ -22,3 +22,4 @@
 <li>Stash, Removing stash, working on multiple stash</li>
 <li>Discard changes</li>
 <li>Rest command</li>
+</ol>
