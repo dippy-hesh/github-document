@@ -1,5 +1,4 @@
-# GIT.doc cover all commands to learn about GIT and GITHUB basic for beginner to intermediate ![alt text](Screenshot 2024-10-21 220425)
-
+# GIT.doc cover all commands to learn about GIT and GITHUB basic for beginner to intermediate.
 ## In git we coverd below topics
 <ol>
 <li>What is git</li>
